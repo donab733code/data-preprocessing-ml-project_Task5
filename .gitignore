@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Model files
+*.pkl
+*.joblib
+
+# Dataset files (optional)
+# Uncomment if you don't want to upload dataset
+# *.csv
+
+# Generated plots
+*.png
+*.jpg
+*.jpeg
